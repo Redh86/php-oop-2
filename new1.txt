@@ -1,0 +1,10 @@
+Concessionaria
+
+id			numero		AUTO_INC		NOT NULL
+nome		stringa		varchar (20)	NOT NULL
+cognome		stringa		varchar (50)	NOT NULL
+nascita		data		YEAR			NOT NULL
+email	    stringa		varchar (20)	NOT NULL
+sesso		stringa		varchar	(5)		NOT NULL
+nickname    stringa     varchar (20)    NOT NULL
+
